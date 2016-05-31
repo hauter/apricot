@@ -1,4 +1,4 @@
 APRICOT
 ====
 
-一个专门为 RestfulAPI 而写的 web 框架 
+A simple Restful API web framework. Sping-like but not IOC, makes it very easy to be used.
